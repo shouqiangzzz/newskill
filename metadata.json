@@ -1,0 +1,7 @@
+{
+  "name": "SkillMatrix - Skill Mastery & Learning Tracker",
+  "description": "Interactive skill trees, competency matrix, XP progression, and practice logging for personal and professional growth.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
